@@ -4,11 +4,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.microservice.config-server"/>
 			<item value="com.oauth2"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="config-server"/>
 			<item value="oauth2-project"/>
 		</list>
 		<list key="projectNameTemplate">
