@@ -41,6 +41,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\java_microservices\ratings-data-service"/>
+			<item value="D:\java_microservices\movie-info-service"/>
+			<item value="D:\java_microservices\discovery-server"/>
 			<item value="D:\java_microservices\oauth2-example"/>
 			<item value="C:\Users\asvyas\Downloads\discovery-server"/>
 			<item value="C:\Users\asvyas\Downloads\spring-boot-microservices-workshop-master\discovery-server"/>
