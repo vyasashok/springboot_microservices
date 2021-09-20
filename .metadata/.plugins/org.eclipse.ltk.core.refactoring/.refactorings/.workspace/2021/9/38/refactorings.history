@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;oauth2-example&apos;" deleteContents="true" description="Delete resource &apos;oauth2-example&apos;" element1="/oauth2-example" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1631684621343"/>&#x0A;<refactoring comment="Rename resource &apos;oauth2-project&apos; to &apos;authorization-server&apos;" description="Rename resource &apos;oauth2-project&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/oauth2-project" name="authorization-server" stamp="1631787689089" updateReferences="true"/>
-</session>

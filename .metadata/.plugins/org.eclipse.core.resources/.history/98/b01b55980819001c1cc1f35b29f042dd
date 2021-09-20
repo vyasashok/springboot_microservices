@@ -1,5 +1,0 @@
-package com.microservices.movie_catalog_service.config;
-
-public class SecurityConfig {
-
-}

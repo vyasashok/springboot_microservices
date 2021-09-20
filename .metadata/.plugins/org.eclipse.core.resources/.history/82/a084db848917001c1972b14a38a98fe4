@@ -1,5 +1,0 @@
-package com.oauth2.filter;
-
-public class CORSFilter {
-
-}
