@@ -213,7 +213,7 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_08yswBn5EeyYVKknlM0feA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SpringCloudConfigServer.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SpringCloudConfigServer.java&quot; partName=&quot;SpringCloudConfigServer.java&quot; title=&quot;SpringCloudConfigServer.java&quot; tooltip=&quot;config-server/src/main/java/com/microservices/config/SpringCloudConfigServer.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/config-server/src/main/java/com/microservices/config/SpringCloudConfigServer.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;577&quot; selectionTopPixel=&quot;69&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SpringCloudConfigServer.java&quot; partName=&quot;SpringCloudConfigServer.java&quot; title=&quot;SpringCloudConfigServer.java&quot; tooltip=&quot;config-server/src/main/java/com/microservices/config/SpringCloudConfigServer.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/config-server/src/main/java/com/microservices/config/SpringCloudConfigServer.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;577&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -409,7 +409,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_s_s0IBhpEeyJH82PD4M14Q" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_5-mEoBn3EeyYVKknlM0feA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_sokGxhhpEeyJH82PD4M14Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_9SdgwBoFEeyvAsUHhNebzg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_sokGxhhpEeyJH82PD4M14Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_s_s0IRhpEeyJH82PD4M14Q" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -439,7 +439,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_s_tbMBhpEeyJH82PD4M14Q" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_5-q9IBn3EeyYVKknlM0feA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_sojfrhhpEeyJH82PD4M14Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_9Sf9ABoFEeyvAsUHhNebzg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_sojfrhhpEeyJH82PD4M14Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_s_tbMRhpEeyJH82PD4M14Q" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
