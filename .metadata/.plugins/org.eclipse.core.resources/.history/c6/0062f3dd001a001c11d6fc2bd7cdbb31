@@ -1,0 +1,7 @@
+server.port = 8085
+spring.cloud.config.server.git.uri=https:///github.com//vyasashok//springboot_microservices//tree//master//config-files
+spring.cloud.config.server.git.username=vyasashok
+spring.cloud.config.server.git.password=Avyas@2016
+spring.cloud.config.server.git.clone-on-start=true
+management.security.enabled=true
+spring.autoconfigure.exclude=org.springframawork.boot.autoconfigure.SecurityAutoConfiguration

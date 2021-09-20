@@ -10720,3 +10720,18 @@ org.eclipse.core.runtime.OperationCanceledException
 
 !ENTRY org.eclipse.jdt.ui 2 0 2021-09-20 15:33:05.644
 !MESSAGE The 'org.eclipse.recommenders.completion.rcp.javaCompletionProposalComputer.intelligent' proposal computer from the 'org.eclipse.recommenders.completion.rcp' plug-in did not complete normally. The extension took too long to return from the 'computeCompletionProposals()' operation.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-09-20 15:57:33.363
+!MESSAGE ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-20 15:57:58.877
+!MESSAGE Could not determine source level, using default 1.4
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-20 15:57:58.878
+!MESSAGE Could not determine target level, using default 1.4
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-20 16:26:19.165
+!MESSAGE Could not determine source level, using default 1.4
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-20 16:26:19.167
+!MESSAGE Could not determine target level, using default 1.4
